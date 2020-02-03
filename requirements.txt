@@ -1,0 +1,14 @@
+Django
+pbr
+pip
+pytz
+requests
+setuptools
+six
+sqlparse
+stevedore
+urllib3
+virtualenv
+virtualenv-clone
+virtualenvwrapper
+virtualenvwrapper-win
