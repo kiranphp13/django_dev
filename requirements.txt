@@ -3,7 +3,6 @@ pbr
 pip
 pytz
 requests
-setuptools
 six
 sqlparse
 stevedore
